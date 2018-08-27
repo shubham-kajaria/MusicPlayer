@@ -8,7 +8,7 @@
 Under the GPLv3 License, users are allowed to modify and redistribute this software. 
 
 ## Download
-You can find an apk file [here](https://github.com/JavaCafe01/Phonograph-Pro/releases/tag/v0.16.6_Pro).
+You can find an apk file [here](https://drive.google.com/open?id=0B_D218BFFXDaZ21JcEUtYll4c1E).
 
 ## Do it yourself
 
