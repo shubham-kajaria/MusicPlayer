@@ -25,4 +25,4 @@ public static boolean isProVersion() {
 public static boolean isProVersion() {
     return true;
 }
-```# Muic-Player
+```# Music-Player
