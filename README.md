@@ -11,7 +11,9 @@ Under the GPLv3 License, users are allowed to modify and redistribute this softw
 You can find an apk file [here](https://drive.google.com/open?id=1ZOe9Bw1PsI2H3YmGEcHRu4fzxdpjttv4).
 
 ## Screenshots
-[<img src="https://imgur.com/LYKKeCE" width=250>](https://imgur.com/LYKKeCE)
+[<img src="https://imgur.com/LYKKeCE" width=250>]
+
+
 
 ## Contribution
 If you have any ideas or issues, don't hesitate to reach out to me. Every contribution is welcome.
