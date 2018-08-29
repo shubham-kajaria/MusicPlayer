@@ -13,8 +13,13 @@ You can find an apk file [here](https://drive.google.com/open?id=1ZOe9Bw1PsI2H3Y
 ## Screenshots
 
 [<img src="https://imgur.com/ysI6gcs.png" width=250>](https://imgur.com/ysI6gcs.png)
-
-
+[<img src="https://imgur.com/LYKKeCE.png" width=250>](https://imgur.com/LYKKeCE.png)
+[<img src="https://imgur.com/QhyQL8C.png" width=250>](https://imgur.com/QhyQL8C.png)
+[<img src="https://imgur.com/aBiQxhC.png" width=250>](https://imgur.com/aBiQxhC.png)
+[<img src="https://imgur.com/uurUXgZ.png" width=250>](https://imgur.com/uurUXgZ.png)
+[<img src="https://imgur.com/rQCOP8E.png" width=250>](https://imgur.com/rQCOP8E.png)
+[<img src="https://imgur.com/yWBXBFj.png" width=250>](https://imgur.com/yWBXBFj.png)
+[<img src="https://imgur.com/WeEzabp.png" width=250>](https://imgur.com/WeEzabp.png)
 
 ## Contribution
 If you have any ideas or issues, don't hesitate to reach out to me. Every contribution is welcome.
