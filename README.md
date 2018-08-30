@@ -36,7 +36,7 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ## Do it yourself
 
-1. Go to `/app/src/main/java/com/kabouzeid/gramophone/App.java`
+1. Go to `/app/src/main/java/shubham/kajaria/musicplayer/App.java`
 2. Change the contents of this method:
 ```
 public static boolean isProVersion() {
