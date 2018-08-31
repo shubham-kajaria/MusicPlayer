@@ -8,7 +8,7 @@
 Under the GPLv3 License, users are allowed to modify and redistribute this software. 
 
 ## Download
-You can find an apk file [here](https://drive.google.com/open?id=1bfjoeyRCPT3yNM5PNnD3xzJaWwlVwsnp).
+You can find an apk file [here](https://drive.google.com/file/d/1MeMCiuoVsbACNXX6g8JQ9MFCR4cKTxCx/view?usp=sharing).
 
 ## Screenshots
 
