@@ -8,7 +8,7 @@
 Under the GPLv3 License, users are allowed to modify and redistribute this software. 
 
 ## Download
-You can find an apk file [here](https://drive.google.com/file/d/1MeMCiuoVsbACNXX6g8JQ9MFCR4cKTxCx/view?usp=sharing).
+You can find an apk file [here](https://play.google.com/store/apps/details?id=shubham.kajaria.musicplayer).
 
 ## Screenshots
 
