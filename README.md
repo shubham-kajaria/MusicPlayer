@@ -33,7 +33,9 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-## Special Thanks to kabouzeid
+## Special Thanks  
+Kabouzeid
+
 ## Do it yourself
 
 1. Go to `/app/src/main/java/shubham/kajaria/musicplayer/App.java`
